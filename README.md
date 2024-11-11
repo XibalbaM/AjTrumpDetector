@@ -35,9 +35,9 @@ Le score sera calculé en fonction du **taux de diversité lexicale**, c'est-à-
 3. **Bonus** : En bonus, vous pouvez intégrer une fonctionnalité qui compare le texte analysé à des discours célèbres de Donald Trump pour voir si le score est similaire ! Cela pourrait rendre le challenge encore plus amusant 😄
 
 ## Récompenses
-- Vainqueur : 20 pts
-- 2ème : 10 pts
-- 3ème : 5 pts
+- Vainqueur : 5 pts
+- 2ème : 3 pts
+- 3ème : 1 pts
 
 Rappel: Les participants accumulent des points en fonction de leur performance dans les challenges. Ces points peuvent être convertis en cartes cadeaux Prezzy, utilisables pour des achats en ligne ou en magasin dans n'importe quelle devise.
 
